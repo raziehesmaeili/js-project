@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Personal electrical appliances",
+        "price": "200000 $",
+        "img": "https://dkstatics-public.digikala.com/digikala-products/9742704fa108b99a7061691b67aa4c22a1dc9320_1673168371.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60"
+    },
+    {
+        "id": 2,
+        "name": "Parum",
+        "price": "37 $",
+        "img": "https://dkstatics-public.digikala.com/digikala-products/423aaa3e26f577d140c349055ae274f7066f3522_1719997835.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60"
+    },
+    {
+        "id": 3,
+        "name": "Facial serum",
+        "price": "12 $",
+        "img":"https://dkstatics-public.digikala.com/digikala-products/a611ba5cca258fad3fe0c87a74a00bcbca405446_1670419571.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+    },
+    {
+        "id": 4,
+        "name": "Hair Spray",
+        "price": "5$",
+        "img":"https://dkstatics-public.digikala.com/digikala-products/60ab11fc73b563e70cd3c684d978b95f1c27b0e5_1679739488.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+    },
+    {
+        "id": 5,
+        "name": "Fecial makeup remover",
+        "price": "21$",
+        "img":"https://dkstatics-public.digikala.com/digikala-products/62da7bddd052b13da0150cadb842e56482cadc5e_1652883848.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60"
+
+    },
+    {
+      
+        "id": 6,
+        "name": "Suncream",
+        "price": "45$",
+        "img":"https://dkstatics-public.digikala.com/digikala-products/c44d3316d3a6270669cf201dc6cafa94444f251b_1723879281.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60"  
+    },
+    {
+        
+        "id": 7,
+        "name": "Body shampoo",
+        "price": "10$",
+        "img":"https://dkstatics-public.digikala.com/digikala-products/1604973.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+    },
+    {
+        "id": 8,
+        "name": "Merident toothpaste",
+        "price": "15$",
+        "img":"https://dkstatics-public.digikala.com/digikala-products/976d5a6e886f0703f87a3b34cadcd64a326a5664_1707518379.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+    },
+    {
+        "id": 9,
+        "name": "Golnar soap",
+        "price": "1$",
+        "img":"https://dkstatics-public.digikala.com/digikala-products/114916007.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+    },
+    {
+        "id": 10,
+        "name": "Mens body spray",
+        "price": "16$",
+        "img":"https://dkstatics-public.digikala.com/digikala-products/3a6b615663ba8f65965d25db6feff72569a56d3f_1646217415.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+    }
+]
